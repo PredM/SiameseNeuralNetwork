@@ -130,7 +130,8 @@ dmypy.json
 !/archive/__init__.py
 !/archive/readme.txt
 
-/logs/temp/
+/logs/
+!/logs/.gitkeep
 
 data/case_base/*
 !data/case_base/.gitkeep
@@ -140,3 +141,5 @@ data/datasets/*
 
 data/trained_models/temp_*
 !data/trained_models/.gitkeep
+
+

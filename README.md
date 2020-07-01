@@ -4,8 +4,9 @@ Please note, that the MS-SNNs approach is here referred to as CaseBasedSimilarit
 The implementation of some components is based on the one presented in [NeuralWarp](https://arxiv.org/abs/1812.08306) ([GitHub](https://github.com/josifgrabocka/neuralwarp)).
 
 ## Supplementary Resources
-* The sub directory [supplementary\_resources](https://PLACEHOLDER.com) of this repository contains additional information about the data sets used and the architecture of the CNN2D + MAR model.
+* The sub directory [supplementary\_resources](https://github.com/PredM/SiameseNeuralNetwork/tree/master/supplementary_resources) of this repository contains additional information about the data sets used and the architecture of the CNN2D + MAR model.
 * An [overview](https://seafile.rlp.net/f/fa6624358ff04627b9a8/) of all relevant conducted experiments
+* The [detailed logs](https://seafile.rlp.net/d/81938c117f444eddbda4/) for each of those experiments 
 * The [raw data](https://seafile.rlp.net/d/cd5590e4e9d249b2847e/) recorded with this [simulation factory model](https://iot.uni-trier.de) used to generate the training and evaluation data sets.
 * The [preprocessed data set](https://seafile.rlp.net/d/69434c0df2c3493aac7f/) we used for the evaluation.
 
