@@ -1,0 +1,44 @@
+{
+  "encoder_variant": "tcn",
+  "batch_size": 16,
+  "epochs": 400000,
+  "epochs_current": 0,
+  "learning_rate": 0.0001,
+  "gradient_cap": 10,
+  "dropout_rate": 0.05,
+  "ffnn_layers": [
+    64,
+    16,
+    1
+  ],
+  "cnn_layers": [
+    128,
+    64,
+    32
+  ],
+  "cnn_kernel_length": [
+    5,
+    5,
+    3
+  ],
+  "cnn_strides": [
+    1,
+    1,
+    2
+  ],
+  "lstm_layers": [
+    256,
+    128,
+    64
+  ],
+  "tcn_layers": [
+    128,
+    64,
+    32
+  ],
+  "tcn_kernel_length": [
+    5,
+    5,
+    3
+  ]
+}

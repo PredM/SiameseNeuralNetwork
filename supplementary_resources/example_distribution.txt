@@ -1,0 +1,79 @@
+----------------------------------------------
+Train and test data sets:
+----------------------------------------------
+                                                    Train  Test  Total
+Failure mode
+no_failure                                          24908  2907  27815
+txt15_conveyor_failure_mode_driveshaft_slippage...     11     0     11
+txt15_i1_lightbarrier_failure_mode_1                    7     0      7
+txt15_i1_lightbarrier_failure_mode_2                    6    18     24
+txt15_i3_lightbarrier_failure_mode_2                    8     5     13
+txt15_m1_t1_high_wear                                  82    88    170
+txt15_m1_t1_low_wear                                  112    79    191
+txt15_m1_t2_wear                                       42    58    100
+txt15_pneumatic_leakage_failure_mode_1                 11     0     11
+txt15_pneumatic_leakage_failure_mode_2                 12     0     12
+txt15_pneumatic_leakage_failure_mode_3                 10     0     10
+txt16_conveyor_failure_mode_driveshaft_slippage...     11    12     23
+txt16_conveyorbelt_big_gear_tooth_broken_failure       13    11     24
+txt16_conveyorbelt_small_gear_tooth_broken_failure      3     0      3
+txt16_i3_switch_failure_mode_2                          9     0      9
+txt16_i4_lightbarrier_failure_mode_1                   31    42     73
+txt16_m3_t1_high_wear                                  42    26     68
+txt16_m3_t1_low_wear                                   12    20     32
+txt16_m3_t2_wear                                       63    43    106
+txt17_i1_switch_failure_mode_1                         17    15     32
+txt17_i1_switch_failure_mode_2                         24    11     35
+txt17_pneumatic_leakage_failure_mode_1                 24     9     33
+txt17_workingstation_transport_failure_mode_wou...     20    18     38
+txt18_pneumatic_leakage_failure_mode_1                 11     9     20
+txt18_pneumatic_leakage_failure_mode_2                 27    10     37
+txt18_pneumatic_leakage_failure_mode_2_faulty          11     8     19
+txt18_transport_failure_mode_wout_workpiece             6     0      6
+txt19_i4_lightbarrier_failure_mode_1                    9     0      9
+txt19_i4_lightbarrier_failure_mode_2                    8     0      8
+
+Total sum in train: 25550
+Total sum in test: 3389
+Total sum examples: 28939
+----------------------------------------------
+
+
+
+----------------------------------------------
+Case base:
+----------------------------------------------
+                                                    Number of examples
+Failure mode
+no_failure                                                         150
+txt15_conveyor_failure_mode_driveshaft_slippage...                  11
+txt15_i1_lightbarrier_failure_mode_1                                 7
+txt15_i1_lightbarrier_failure_mode_2                                 6
+txt15_i3_lightbarrier_failure_mode_2                                 8
+txt15_m1_t1_high_wear                                               82
+txt15_m1_t1_low_wear                                               112
+txt15_m1_t2_wear                                                    42
+txt15_pneumatic_leakage_failure_mode_1                              11
+txt15_pneumatic_leakage_failure_mode_2                              12
+txt15_pneumatic_leakage_failure_mode_3                              10
+txt16_conveyor_failure_mode_driveshaft_slippage...                  11
+txt16_conveyorbelt_big_gear_tooth_broken_failure                    13
+txt16_conveyorbelt_small_gear_tooth_broken_failure                   3
+txt16_i3_switch_failure_mode_2                                       9
+txt16_i4_lightbarrier_failure_mode_1                                31
+txt16_m3_t1_high_wear                                               42
+txt16_m3_t1_low_wear                                                12
+txt16_m3_t2_wear                                                    63
+txt17_i1_switch_failure_mode_1                                      17
+txt17_i1_switch_failure_mode_2                                      24
+txt17_pneumatic_leakage_failure_mode_1                              24
+txt17_workingstation_transport_failure_mode_wou...                  20
+txt18_pneumatic_leakage_failure_mode_1                              11
+txt18_pneumatic_leakage_failure_mode_2                              27
+txt18_pneumatic_leakage_failure_mode_2_faulty                       11
+txt18_transport_failure_mode_wout_workpiece                          6
+txt19_i4_lightbarrier_failure_mode_1                                 9
+txt19_i4_lightbarrier_failure_mode_2                                 8
+
+Total sum examples: 792
+----------------------------------------------

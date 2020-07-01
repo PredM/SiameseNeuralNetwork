@@ -1,0 +1,68 @@
+{
+  "encoder_variant": "cnn",
+  "batch_size": 64,
+  "epochs": 500000,
+  "epochs_current": 0,
+  "learning_rate": 0.001,
+  "gradient_cap": 10,
+  "dropout_rate": 0.05,
+  "ffnn_layers": [
+    64,
+    32,
+    1
+  ],
+  "cnn_layers": [
+    512,
+    256,
+    64
+  ],
+  "cnn_kernel_length": [
+    7,
+    7,
+    5
+  ],
+  "cnn_strides": [
+    2,
+    1,
+    1
+  ],
+  "cnn2d_layers": [
+    128,
+    64
+  ],
+  "cnn2d_kernel_length": [
+    [
+      5,
+      1
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "cnn2d_strides": [
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      1
+    ]
+  ],
+  "lstm_layers": [
+    256,
+    128,
+    64
+  ],
+  "tcn_layers": [
+    1024,
+    256,
+    64
+  ],
+  "tcn_kernel_length": [
+    5,
+    5,
+    3
+  ]
+}

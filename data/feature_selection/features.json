@@ -1,0 +1,236 @@
+{
+  "relevant_features": {
+    "no_failure": [
+      "txt15_i1",
+      "txt15_i3",
+      "txt16_i3",
+      "txt16_i4",
+      "txt17_i1",
+      "txt17_i2",
+      "txt17_i5",
+      "txt19_i4",
+      "txt15_m1.finished",
+      "txt16_m1.finished",
+      "txt16_m3.finished",
+      "txt17_m1.finished",
+      "txt17_m2.finished",
+      "txt18_m1.finished",
+      "txt18_m2.finished",
+      "txt18_m3.finished",
+      "txt19_m1.finished",
+      "txt19_m2.finished",
+      "txt19_m3.finished",
+      "txt19_m4.finished",
+      "txt15_o5",
+      "txt15_o6",
+      "txt15_o7",
+      "txt15_o8",
+      "txt16_o7",
+      "txt16_o8",
+      "txt17_o5",
+      "txt17_o6",
+      "txt17_o7",
+      "txt17_o8",
+      "txt18_o7",
+      "txt18_o8",
+      "a_15_1_x",
+      "a_15_1_y",
+      "a_15_1_z",
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "hPa_15",
+      "hPa_17",
+      "hPa_18"
+    ],
+    "txt18_pneumatic_leakage_failure_mode_1": [
+      "hPa_18",
+      "txt18_o7",
+      "txt18_o8"
+    ],
+    "txt18_pneumatic_leakage_failure_mode_2": [
+      "hPa_18",
+      "txt18_o7",
+      "txt18_o8"
+    ],
+    "txt18_pneumatic_leakage_failure_mode_2_faulty": [
+      "hPa_18",
+      "txt18_o7",
+      "txt18_o8"
+    ],
+    "txt18_pneumatic_leakage_failure_mode_3_faulty": [
+      "hPa_18",
+      "txt18_o7",
+      "txt18_o8"
+    ],
+    "txt18_transport_failure_mode_wout_workpiece": [
+      "hPa_18",
+      "txt18_o7",
+      "txt18_o8",
+      "txt18_m2.finished",
+      "txt18_m3.finished",
+      "txt18_m1.finished"
+    ],
+    "txt17_workingstation_transport_failure_mode_wout_workpiece": [
+      "hPa_17",
+      "txt17_i5",
+      "txt17_o7",
+      "txt17_m1.finished",
+      "txt17_o5",
+      "txt17_m2.finished",
+      "txt16_o8",
+      "txt17_o6",
+      "txt16_o7"
+    ],
+    "txt17_pneumatic_leakage_failure_mode_1": [
+      "hPa_17",
+      "txt17_o7",
+      "txt17_i5",
+      "txt17_o5",
+      "txt17_o6"
+    ],
+    "txt17_i1_switch_failure_mode_1": [
+      "txt17_i2",
+      "txt17_i1",
+      "txt17_o7",
+      "txt17_m1.finished",
+      "txt17_i5",
+      "txt16_o8"
+    ],
+    "txt17_i1_switch_failure_mode_2": [
+      "txt17_i2",
+      "txt17_i1",
+      "txt17_o7",
+      "txt17_m1.finished",
+      "txt17_i5",
+      "txt16_o8"
+    ],
+    "txt19_i4_lightbarrier_failure_mode_1": [
+      "txt19_m1.finished",
+      "txt19_m2.finished",
+      "txt19_m3.finished",
+      "txt19_m4.finished",
+      "txt19_i4"
+    ],
+    "txt19_i4_lightbarrier_failure_mode_2": [
+      "txt19_m1.finished",
+      "txt19_m2.finished",
+      "txt19_m3.finished",
+      "txt19_m4.finished",
+      "txt19_i4"
+    ],
+    "txt15_m1_t1_high_wear": [
+      "txt15_m1.finished",
+      "a_15_1_x",
+      "a_15_1_y",
+      "a_15_1_z"
+    ],
+    "txt15_m1_t1_low_wear": [
+      "txt15_m1.finished",
+      "a_15_1_x",
+      "a_15_1_y",
+      "a_15_1_z"
+    ],
+    "txt15_m1_t2_wear": [
+      "txt15_m1.finished",
+      "a_15_1_x",
+      "a_15_1_y",
+      "a_15_1_z"
+    ],
+    "txt16_m3_t1_high_wear": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt16_m3_t1_low_wear": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt16_m3_t2_wear": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt16_i4_lightbarrier_failure_mode_1": [
+      "txt16_i4",
+      "txt16_m3.finished"
+    ],
+    "txt16_i3_switch_failure_mode_2": [
+      "txt16_i3",
+      "txt16_m1.finished"
+    ],
+    "txt16_pneumatic_leakage_failure_mode_1": [
+      "hPa_17",
+      "txt16_o8",
+      "txt17_o5",
+      "txt17_o6",
+      "txt17_o7",
+      "txt16_o7"
+    ],
+    "txt16_conveyorbelt_small_gear_tooth_broken_failure": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt16_conveyorbelt_big_gear_tooth_broken_failure": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt16_conveyor_failure_mode_driveshaft_slippage_failure": [
+      "a_16_3_x",
+      "a_16_3_y",
+      "a_16_3_z",
+      "txt16_m3.finished"
+    ],
+    "txt15_pneumatic_leakage_failure_mode_1": [
+      "hPa_15",
+      "txt15_o5",
+      "txt15_o6",
+      "txt15_o7",
+      "txt15_o8"
+    ],
+    "txt15_pneumatic_leakage_failure_mode_2": [
+      "hPa_15",
+      "txt15_o5",
+      "txt15_o6",
+      "txt15_o7",
+      "txt15_o8"
+    ],
+    "txt15_pneumatic_leakage_failure_mode_3": [
+      "hPa_15",
+      "txt15_o5",
+      "txt15_o6",
+      "txt15_o7",
+      "txt15_o8"
+    ],
+    "txt15_i1_lightbarrier_failure_mode_1": [
+      "txt15_m1.finished",
+      "txt15_i1"
+    ],
+    "txt15_i1_lightbarrier_failure_mode_2": [
+      "txt15_m1.finished",
+      "txt15_i1"
+    ],
+    "txt15_i3_lightbarrier_failure_mode_1": [
+      "txt15_m1.finished",
+      "txt15_i3"
+    ],
+    "txt15_i3_lightbarrier_failure_mode_2": [
+      "txt15_m1.finished",
+      "txt15_i3"
+    ],
+    "txt15_conveyor_failure_mode_driveshaft_slippage_failure": [
+      "txt15_m1.finished",
+      "a_15_1_x",
+      "a_15_1_y",
+      "a_15_1_z"
+    ]
+  }
+}
