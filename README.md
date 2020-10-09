@@ -1,5 +1,5 @@
 # PredM
-Companion repository to the paper [Enhancing Siamese Neural Networks through Expert Knowledge for Predictive Maintenance](https://PLACEHOLDER.com). \
+Companion repository to the paper [Enhancing Siamese Neural Networks through Expert Knowledge for Predictive Maintenance](http://www.wi2.uni-trier.de/shared/publications/2020_ECML-IoTStreams_SiameseNeuralNetwork-for-PredictiveMaintenance_Preprint.pdf). \
 Please note, that the MS-SNNs approach is here referred to as CaseBasedSimilarity (CBS) and CNN2D + MAR is called cnn2dWithAddInput.
 The implementation of some components is based on the one presented in [NeuralWarp](https://arxiv.org/abs/1812.08306) ([GitHub](https://github.com/josifgrabocka/neuralwarp)).
 
